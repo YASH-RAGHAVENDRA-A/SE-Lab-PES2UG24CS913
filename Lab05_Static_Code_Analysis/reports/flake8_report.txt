@@ -1,3 +1,1 @@
-﻿Command: python -m flake8 loan_calculator.py
-Exit code: 0
-Result: No Flake8 findings.
+No Flake8 findings.
